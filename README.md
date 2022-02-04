@@ -15,5 +15,5 @@ The aim of this project is therefore to **build a Natural Language Processing so
 ## Resources:
 
 * [Jupyter Notebook](https://github.com/CeeThinwa/Delta-Analytics-2021-CT-Project/blob/main/KOT%20EDA.ipynb)
-* [Presentation Slides](https://github.com/CeeThinwa/Delta-Analytics-2021-CT-Project/blob/main/Delta%20Analytics%20-%20Teaching%20Fellow%20Cynthia.pdf)
-* BONUS! [NLP Toolbox](https://github.com/CeeThinwa/Delta-Analytics-2021-CT-Project/blob/main/NLP%20Toolbox%20-%20Teaching%20Fellow%20Cynthia.pdf)
+* [Presentation Slides](https://raw.githubusercontent.com/CeeThinwa/Delta-Analytics-2021-CT-Project/main/Delta%20Analytics%20-%20Teaching%20Fellow%20Cynthia.pdf)
+* BONUS! [NLP Toolbox](https://raw.githubusercontent.com/CeeThinwa/Delta-Analytics-2021-CT-Project/main/NLP%20Toolbox%20-%20Teaching%20Fellow%20Cynthia.pdf)
