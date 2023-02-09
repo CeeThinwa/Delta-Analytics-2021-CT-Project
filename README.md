@@ -21,4 +21,4 @@ The aim of this project is therefore to **build a Natural Language Processing so
   - [Delivering Success in Natural Language Processing Projects: Part Two](https://ceethinwa.github.io/knowledge-hub/past-articles/nlp-toolbox-b.html)
   - [Delivering Success in Natural Language Processing Projects: Part Three](https://ceethinwa.github.io/knowledge-hub/past-articles/nlp-toolbox-c.html)
   - [Delivering Success in Natural Language Processing Projects: Part Four](https://ceethinwa.github.io/knowledge-hub/past-articles/nlp-toolbox-d.html)
-  - [Delivering Success in Natural Language Processing Projects: Part Five](https://medium.com/@ceethinwa/delivering-success-in-natural-language-processing-projects-part-five-55e9da952323)
+  - [Delivering Success in Natural Language Processing Projects: Part Five](https://ceethinwa.github.io/knowledge-hub/past-articles/nlp-toolbox-e.html)
